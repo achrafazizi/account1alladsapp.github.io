@@ -1,0 +1,53 @@
+{
+
+
+  "ads":[
+    {
+      "AdmobBanner":"ca-app-pub-xxx",
+      "AdmobInterstitial":"ca-app-pub-xxx",
+      "AdmobNative":"ca-app-pub-3940256099942544/2247696110",
+	  
+	   "FaceBanner":"IMG_16_9_APP_INSTALL#",
+      "FaceInterstitial":"IMG_16_9_APP_INSTALL#",
+      "FaceNative":"IMG_16_9_APP_INSTALL#",
+	  	  
+      "UnityGame":"",
+      "UnityInterstitial":"Interstitial_Android",
+	  "UnityBanner":"Banner_Android",
+	  
+	  "ApplovinInterstitial":"",
+	  "ApplovinBanner":"",
+
+      "Switch":"admob"
+	  
+	  //"Switch":"admob" or "Switch":"fan" or "Switch":"max" or "Switch":"unity" hado bach tbadal les ads li baghi nta
+ 
+    }
+  ],
+
+
+  "tip1": [
+  {
+     "title": "Stranger Things 1",
+      "description": "Sakura School Simulator Beginners Guide and Tips Today we will be talking about a game that we ourselves can’t help coming back to. A Japanese game made by Garusoft Development Inc, Sakura School Simulator is the perfect game to take along when you will be in areas without WiFi or data."
+    }
+
+  ],
+  
+  "tip2": [
+  {
+     "title": "Stranger Things 2",
+      "description": "Making an NPC your lover When you first start out and you have no money to buy a love potion, simply find your choice and talk to them until they allow you to hug them. Then simply spam hug while you compliment them until the status of the relationship is ranked as a lover."
+    }
+
+  ],
+  
+  "tip3": [
+  {
+     "title": "Stranger Things 3",
+      "description": "Earning money You also don’t have to talk to NPCs to find money, simply exploring the town, you can find it just laying around. There is also money in the girl’s house, the boy’s house, and the little kid’s house. Keep an eye out while you’re flying around or you’re bound to miss it."
+    }
+
+  ]
+
+}
