@@ -1,0 +1,53 @@
+{
+
+
+  "ads":[
+    {
+      "AdmobBanner":"ca-app-pub-xxx",
+      "AdmobInterstitial":"ca-app-pub-xxx",
+      "AdmobNative":"ca-app-pub-3940256099942544/2247696110",
+	  
+	   "FaceBanner":"IMG_16_9_APP_INSTALL#",
+      "FaceInterstitial":"IMG_16_9_APP_INSTALL#",
+      "FaceNative":"IMG_16_9_APP_INSTALL#",
+	  	  
+      "UnityGame":"",
+      "UnityInterstitial":"Interstitial_Android",
+	  "UnityBanner":"Banner_Android",
+	  
+	  "ApplovinInterstitial":"",
+	  "ApplovinBanner":"",
+
+      "Switch":"admob"
+	  
+	  //"Switch":"admob" or "Switch":"fan" or "Switch":"max" or "Switch":"unity" hado bach tbadal les ads li baghi nta
+ 
+    }
+  ],
+
+
+  "tip1": [
+  {
+     "title": "Stranger Things 1",
+      "description": "GACHA LIFE - Android game with release date 10/23/2019 from the company Lunime. Game Genre: Casual. In the article, we summarized pumping tips from TOP players, developers "answers to gamers" questions, guides for beginners from the official site and our secrets for passing the game. Attention, the Wise Geek website is constantly updated, visit us more often."
+    }
+
+  ],
+  
+  "tip2": [
+  {
+     "title": "Stranger Things 2",
+      "description": "How to enter a promo code? The developers have provided the opportunity for additional gifts for players.You can enter the code if you enter the Options menu from the Home screen. There is a "Redeem Promo Code" button. By clicking on it, you must enter 9 digits."
+    }
+
+  ],
+  
+  "tip3": [
+  {
+     "title": "Stranger Things 3",
+      "description": "The creator of Gacha Life is Lunime, which has released a number of anime-style games. When you first enter the game you will be met by a cat who will inform you that the game has a lot of interesting things. The game will appeal to fans of anime and those who want to create their own movie or series."
+    }
+
+  ]
+
+}
