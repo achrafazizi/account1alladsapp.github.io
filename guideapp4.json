@@ -1,0 +1,53 @@
+{
+
+
+  "ads":[
+    {
+      "AdmobBanner":"ca-app-pub-xxx",
+      "AdmobInterstitial":"ca-app-pub-xxx",
+      "AdmobNative":"ca-app-pub-3940256099942544/2247696110",
+	  
+	   "FaceBanner":"IMG_16_9_APP_INSTALL#",
+      "FaceInterstitial":"IMG_16_9_APP_INSTALL#",
+      "FaceNative":"IMG_16_9_APP_INSTALL#",
+	  	  
+      "UnityGame":"",
+      "UnityInterstitial":"Interstitial_Android",
+	  "UnityBanner":"Banner_Android",
+	  
+	  "ApplovinInterstitial":"",
+	  "ApplovinBanner":"",
+
+      "Switch":"admob"
+	  
+	  //"Switch":"admob" or "Switch":"fan" or "Switch":"max" or "Switch":"unity" hado bach tbadal les ads li baghi nta
+ 
+    }
+  ],
+
+
+  "tip1": [
+  {
+     "title": "Stranger Things 1",
+      "description": "The Baby in Yellow is a creepy little babysitting horror game where you have to look after a particularly unruly baby. Created for the GMTK game jam (though not quite completed in time), in The Baby in Yellow you are a babysitter who has to look after a rather troublesome little baby. The game takes place over three chapters and sees you carrying out normal babysitting tasks like feeding the baby, changing its nappy and putting it to bed. However."
+    }
+
+  ],
+  
+  "tip2": [
+  {
+     "title": "Stranger Things 2",
+      "description": "Upstairs, there will be the last room and the room at the top of the stairs is open. The last room will be where you let your baby sleep. The room at the top of the stairs you can open on the third day will contain an item called Talisma, which is used to counter the demon in the child."
+    }
+
+  ],
+  
+  "tip3": [
+  {
+     "title": "Stranger Things 3",
+      "description": "Step 2: After entering the game, when approaching the baby, the door, the refrigerator and some other items, you will see a hint icon appear as shown below. Click it directly to perform the action. Look up in the upper left corner and there you will know what the current quest requirement."
+    }
+
+  ]
+
+}
