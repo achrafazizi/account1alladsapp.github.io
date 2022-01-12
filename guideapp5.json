@@ -1,0 +1,53 @@
+{
+
+
+  "ads":[
+    {
+      "AdmobBanner":"ca-app-pub-xxx",
+      "AdmobInterstitial":"ca-app-pub-xxx",
+      "AdmobNative":"ca-app-pub-3940256099942544/2247696110",
+	  
+	   "FaceBanner":"IMG_16_9_APP_INSTALL#",
+      "FaceInterstitial":"IMG_16_9_APP_INSTALL#",
+      "FaceNative":"IMG_16_9_APP_INSTALL#",
+	  	  
+      "UnityGame":"",
+      "UnityInterstitial":"Interstitial_Android",
+	  "UnityBanner":"Banner_Android",
+	  
+	  "ApplovinInterstitial":"",
+	  "ApplovinBanner":"",
+
+      "Switch":"admob"
+	  
+	  //"Switch":"admob" or "Switch":"fan" or "Switch":"max" or "Switch":"unity" hado bach tbadal les ads li baghi nta
+ 
+    }
+  ],
+
+
+  "tip1": [
+  {
+     "title": "Stranger Things 1",
+      "description": "Scary Teacher 3D application helps to pass the level of Scary Teacher 3D chapter 2 game. Scary Teacher 3d Chapter 2 can be a guide for School Learning is a quick horror game, fun time guide game, fully 3D interactive teaching many subjects, Scary Teacher for Teachers Education of difficulties and Learning is beautiful and wonderful. – Amazing Halloween Night Graphics and Stunning Animations – Great Game Play – Simple On-Screen Controls – Attention-Graving Activities."
+    }
+
+  ],
+  
+  "tip2": [
+  {
+     "title": "Stranger Things 2",
+      "description": "Your mission is to wipe out the town’s crime and become an ideal woman This guide also contains tips and tricks to help you complete the mission and how to do it without getting caught and within the allotted time and get revenge on the teacher Also you can find the complete guide about scary games and getting teachers Your mission is to wipe out the town crime and become an ideal woman Scary Teacher 3d can be a guide for School Learning is a quick horror game, fun, interactive tutorial game fully 3D."
+    }
+
+  ],
+  
+  "tip3": [
+  {
+     "title": "Stranger Things 3",
+      "description": "Scary Teacher 3D is a game inspired by the famous movie Matilda, your in-game task is to teach the "cruel" old high school teacher of the character in the game in many different ways. without being caught again. Scary Teacher 3D promises to bring players moments of both thrill and excitement. Refer to this game guide if you have trouble playing!."
+    }
+
+  ]
+
+}
