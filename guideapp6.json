@@ -1,0 +1,53 @@
+{
+
+
+  "ads":[
+    {
+      "AdmobBanner":"ca-app-pub-xxx",
+      "AdmobInterstitial":"ca-app-pub-xxx",
+      "AdmobNative":"ca-app-pub-3940256099942544/2247696110",
+	  
+	   "FaceBanner":"IMG_16_9_APP_INSTALL#",
+      "FaceInterstitial":"IMG_16_9_APP_INSTALL#",
+      "FaceNative":"IMG_16_9_APP_INSTALL#",
+	  	  
+      "UnityGame":"",
+      "UnityInterstitial":"Interstitial_Android",
+	  "UnityBanner":"Banner_Android",
+	  
+	  "ApplovinInterstitial":"",
+	  "ApplovinBanner":"",
+
+      "Switch":"admob"
+	  
+	  //"Switch":"admob" or "Switch":"fan" or "Switch":"max" or "Switch":"unity" hado bach tbadal les ads li baghi nta
+ 
+    }
+  ],
+
+
+  "tip1": [
+  {
+     "title": "Stranger Things 1",
+      "description": "Five Nights at Freddy’s: Security Breach, released on 16th December 2021, is the eighth installment of the Five Nights at Freddy’s series. It is a survival horror game in which you play as Gregory, a young boy who’s been trapped overnight inside of Freddy Fazbear’s Mega Pizzaplex. With the help of Freddy himself."
+    }
+
+  ],
+  
+  "tip2": [
+  {
+     "title": "Stranger Things 2",
+      "description": "Gregory must uncover the secrets of the Pizzaplex, learn the truth, and survive until dawn. This guide lists all the main missions in the game with links to their walkthrough. Some of the walkthroughs are in video format and some are written walkthroughs."
+    }
+
+  ],
+  
+  "tip3": [
+  {
+     "title": "Stranger Things 3",
+      "description": "Find the prize counter security office on the 3rd floor Find the door to the security office Find another way into the security office Take the security badge from the security office Survive until Freddy shuts down the alarm Find the VIP room at the back of the Prize Counter."
+    }
+
+  ]
+
+}
