@@ -1,0 +1,53 @@
+{
+
+
+  "ads":[
+    {
+      "AdmobBanner":"ca-app-pub-xxx",
+      "AdmobInterstitial":"ca-app-pub-xxx",
+      "AdmobNative":"ca-app-pub-3940256099942544/2247696110",
+	  
+	   "FaceBanner":"IMG_16_9_APP_INSTALL#",
+      "FaceInterstitial":"IMG_16_9_APP_INSTALL#",
+      "FaceNative":"IMG_16_9_APP_INSTALL#",
+	  	  
+      "UnityGame":"",
+      "UnityInterstitial":"Interstitial_Android",
+	  "UnityBanner":"Banner_Android",
+	  
+	  "ApplovinInterstitial":"",
+	  "ApplovinBanner":"",
+
+      "Switch":"admob"
+	  
+	  //"Switch":"admob" or "Switch":"fan" or "Switch":"max" or "Switch":"unity" hado bach tbadal les ads li baghi nta
+ 
+    }
+  ],
+
+
+  "tip1": [
+  {
+     "title": "Stranger Things 1",
+      "description": "tear, vaporise, or crush ragdolls. This game is for people who enjoy throwing around ragdolls but want it to be more detailed, satisfying, and feel more free while doing so This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Frequent Violence or Gore, General Mature Content."
+    }
+
+  ],
+  
+  "tip2": [
+  {
+     "title": "Stranger Things 2",
+      "description": "The only saving grace is the variety of models, items and assets, plus the smooth animations. The player will have access to a cavalcade of interesting things to use throughout the run and each function with smooth animations. This perhaps bumps the visuals up to mediocre but in general."
+    }
+
+  ],
+  
+  "tip3": [
+  {
+     "title": "Stranger Things 3",
+      "description": "Where this game really finds it’s niche is through the fun and varied gameplay. There are achievements and tasks for the player to strive for but the real fun is found in experimentation. If you want to test a theory such as can I stick my little guy to the fall with a sharp projectile, or perhaps how many backflips can I do in a tank, you can and that’s where this game really succeeds."
+    }
+
+  ]
+
+}
