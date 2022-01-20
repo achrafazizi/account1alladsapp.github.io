@@ -1,0 +1,53 @@
+{
+
+
+  "ads":[
+    {
+      "AdmobBanner":"ca-app-pub-xxx",
+      "AdmobInterstitial":"ca-app-pub-xxx",
+      "AdmobNative":"ca-app-pub-3940256099942544/2247696110",
+	  
+	   "FaceBanner":"IMG_16_9_APP_INSTALL#",
+      "FaceInterstitial":"IMG_16_9_APP_INSTALL#",
+      "FaceNative":"IMG_16_9_APP_INSTALL#",
+	  	  
+      "UnityGame":"",
+      "UnityInterstitial":"Interstitial_Android",
+	  "UnityBanner":"Banner_Android",
+	  
+	  "ApplovinInterstitial":"",
+	  "ApplovinBanner":"",
+
+      "Switch":"admob"
+	  
+	  //"Switch":"admob" or "Switch":"fan" or "Switch":"max" or "Switch":"unity" hado bach tbadal les ads li baghi nta
+ 
+    }
+  ],
+
+
+  "tip1": [
+  {
+     "title": "Stranger Things 1",
+      "description": "Experience the excitement of a busy medical center with Toca Life: Hospital! Welcome newborn babies into the world, treat sick patients and even say goodbye to loved ones. Toca Life: Hospital is a place where you can play out the joy and pain of life in your own way. LIVE THE CIRCLE OF LIFE THE BEGINNING Welcoming a new baby into the world can be a little scary and very exciting! Share in that excitement as we welcome newborn babies to Toca Life! Family members and medical staff can love and care for these tiny, swaddled cuties. THE END Sometimes sad moments happen in hospitals, too."
+    }
+
+  ],
+  
+  "tip2": [
+  {
+     "title": "Stranger Things 2",
+      "description": "The farewell room in Toca Life: Hospital gives loved ones a chance to say goodbye in a peaceful setting. AND EVERYTHING IN BETWEEN Toca Life: Hospital lets you tell make-believe stories or real-life stories about checkups, X-rays and all the everyday things that happen in a hospital. EXPLORE UNITS ON FIVE FLOORS In the basement, sound the siren on the ambulance in the garage or crack the code on a mysterious machine to open the doors to a secret lab! On the entrance floor, check in at the reception desk and have a seat in the waiting area, or grab a snack from the cafe. The treatment floor has tools to diagnose patients, a lab to check specimens and an operating room."
+    }
+
+  ],
+  
+  "tip3": [
+  {
+     "title": "Stranger Things 3",
+      "description": "The family care floor has a unit just for kids and a maternity unit with an ultrasound machine, nursery cribs and newborn babies! Patients on the general care floor can visit a peaceful garden to reflect on life. And when a loved one dies, say your final goodbyes in the farewell room. FEATURES - Explore five floors: basement, main entrance, lab and treatment, family care and general care. - Move characters from floor to floor in the big elevator. - Baby on the way? Use the ultrasound machine on the expectant patient! - Aww, newborns: Welcome babies to the world! - Use the CAT scan machine (ours has cat ears!) and X-ray machine to diagnose patients! - Check surgery patients’ vitals on the medical monitor. - Use all the tools you’d find in a real-life hospital: gurneys, Tap the lightbulb in the top right corner of the start screen to get updates every week. This free feature gives you fun insights into the whole world of Toca Life."
+    }
+
+  ]
+
+}
