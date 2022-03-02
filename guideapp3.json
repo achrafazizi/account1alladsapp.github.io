@@ -3,13 +3,13 @@
 
   "ads":[
     {
-      "AdmobBanner":"ca-app-pub-1566196723242854/7922878007",
-      "AdmobInterstitial":"ca-app-pub-1566196723242854/2008028738",
-      "AdmobNative":"ca-app-pub-1566196723242854/5735698367",
+      "AdmobBanner":"2275277885955414_2275280382621831",
+      "AdmobInterstitial":"xx",
+      "AdmobNative":"xx",
 	  
-	   "FaceBanner":"IMG_16_9_APP_INSTALL#",
-      "FaceInterstitial":"IMG_16_9_APP_INSTALL#",
-      "FaceNative":"IMG_16_9_APP_INSTALL#",
+	   "FaceBanner":"2275277885955414_2275280382621831",
+      "FaceInterstitial":"2275277885955414_2275281119288424",
+      "FaceNative":"2275277885955414_2275281275955075#",
 	  	  
       "UnityGame":"",
       "UnityInterstitial":"Interstitial_Android",
@@ -18,7 +18,7 @@
 	  "ApplovinInterstitial":"",
 	  "ApplovinBanner":"",
 
-      "Switch":"admob"
+      "Switch":"fan"
 	  
 	  //"Switch":"admob" or "Switch":"fan" or "Switch":"max" or "Switch":"unity" hado bach tbadal les ads li baghi nta
  
